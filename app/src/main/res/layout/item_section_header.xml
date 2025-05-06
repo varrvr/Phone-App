@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textViewSection"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginTop="16dp"
+
+    style="@style/TextAppearance.MaterialComponents.Headline6"
+    android:background="?attr/colorSurface"
+    android:drawablePadding="8dp"
+    android:clickable="true"
+    android:focusable="true" />
