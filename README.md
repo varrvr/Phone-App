@@ -15,8 +15,7 @@
 
 ## Скриншоты
 
-| Главный экран                                     | Главный экран(night-theme)                        |
-| ------------------------------------------------- | ------------------------------------------------- |
-| ![Screenshot 1](screenshots/screen1_white.jpg) | ![Screenshot 2](screenshots/screen1.jpg) |
-| ![Screenshot 3](screenshots/screen2_white.jpg) | ![Screenshot 4](screenshots/screen2.jpg) |
-
+| Главный экран                                                                                          | Главный экран (night-theme)                                                                           |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| <img src="screenshots/screen1_white.jpg" width="200"/>                                                | <img src="screenshots/screen1.jpg" width="200"/>                                                     |
+| <img src="screenshots/screen2_white.jpg" width="200"/>                                                | <img src="screenshots/screen2.jpg" width="200"/>                                                     |
